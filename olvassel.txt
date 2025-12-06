@@ -2,7 +2,7 @@ Név:
 Pöltl Zorka
 
 A weboldal URL címe:
-https://<a-te-github-felhasznaloneved>.github.io/<repo-neve>/
+https://poltlzorka07.github.io/IT_Beadando_2025/
 
 A projekt témája:
 A weboldal egy utazástervező honlap, amely népszerű európai városok bemutatását és egy interaktív útiterv-generálást kínál a felhasználóknak. A cél egy modern, reszponzív, felhasználóbarát oldal készítése HTML, CSS és JavaScript használatával.
@@ -32,4 +32,5 @@ Felhasznált külső források:
 – Nem használtam külső JavaScript könyvtárat.  
 – A HTML, CSS és JavaScript kód saját munkám, azonban az implementálás során igénybe vettem mesterséges intelligencia alapú segítséget (pl. ChatGPT) egyes részek finomhangolásához és hibakereséséhez. A kód működését teljes mértékben értem és önállóan is el tudom magyarázni.
 – A városok leírásai és programlistái részben saját szövegezésűek, részben mesterséges intelligencia által generált tartalmak, amelyeket én szerkesztettem, alakítottam és illesztettem a weboldal témájához.
+
 
